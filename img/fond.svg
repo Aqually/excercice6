@@ -1,0 +1,41 @@
+<svg width="1000" height="500" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="0" x2="1" y1="0" x1="0">
+   <stop offset="0" stop-opacity="0.996094" stop-color="#d1ffc6"/>
+   <stop offset="1" stop-opacity="0.996094" stop-color="#2aff00"/>
+   <stop offset="1" stop-color="#000000"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="1" y1="0" x1="0" id="svg_12">
+   <stop offset="0" stop-opacity="0.992188" stop-color="#d1fafc"/>
+   <stop stop-opacity="0.992188" offset="1" stop-color="#77c4c4"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <rect fill="#fff" height="502" width="1002" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <rect stroke="#000" transform="rotate(-89.99853515625 541.5292968749999,143.15487670898435) " id="svg_9" height="1156.018908" width="636.352896" y="-434.854568" x="223.352852" stroke-opacity="null" stroke-width="1.5" fill="url(#svg_12)"/>
+  <rect stroke="#000" id="svg_4" height="401.000005" width="79.999999" y="45.986832" x="462.5" stroke-opacity="null" stroke-width="1.5" fill="#c1f4f4"/>
+  <rect stroke="#000" id="svg_5" height="306" width="94.999998" y="139.986832" x="612.500002" stroke-opacity="null" stroke-width="1.5" fill="#d8edad"/>
+  <rect stroke="#000" id="svg_6" height="252" width="94.999996" y="192.986832" x="755.5" stroke-opacity="null" stroke-width="1.5" fill="#c9dddd"/>
+  <rect height="264" width="99" y="180.986667" x="871.496555" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#aaffaa"/>
+  <rect height="115" width="1084" y="444.986832" x="-21.5" stroke-width="1.5" stroke="#000" fill="url(#svg_8)"/>
+  <rect stroke="#000" id="svg_2" height="336.999996" width="121.000007" y="107.986836" x="24.5" stroke-opacity="null" stroke-width="1.5" fill="#a1eded"/>
+  <rect height="194" width="268" y="250.986832" x="141.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#e5fcfc"/>
+  <rect height="34.005598" width="70.011525" y="335.505843" x="47.4255" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#e5e5e5"/>
+  <rect height="34.005598" width="70.011525" y="162.477365" x="46.425336" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#e5e5e5"/>
+  <rect height="34.005598" width="70.011525" y="218.486584" x="47.4255" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#e5e5e5"/>
+  <rect height="34.005598" width="70.011525" y="274.495802" x="47.4255" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#e5e5e5"/>
+  <rect height="93.015311" width="196.032269" y="288.498109" x="178.447069" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#e5e5e5"/>
+  <rect height="36.005927" width="44.007244" y="95.466334" x="480.49679" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#e5e5e5"/>
+  <rect height="36.005927" width="43.007079" y="307.501234" x="481.496954" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#e5e5e5"/>
+  <rect height="108.017781" width="66.010866" y="312.502059" x="628.521156" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#e5e5e5"/>
+  <rect height="108.017781" width="66.010866" y="180.480328" x="627.520991" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#e5e5e5"/>
+  <rect height="63.010372" width="58.009549" y="335.505846" x="775.545358" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#aaffaa"/>
+  <rect height="63.010372" width="58.009549" y="231.488725" x="775.545358" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#aaffaa"/>
+  <rect height="36.005927" width="43.007079" y="197.483127" x="481.496954" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#e5e5e5"/>
+ </g>
+</svg>
